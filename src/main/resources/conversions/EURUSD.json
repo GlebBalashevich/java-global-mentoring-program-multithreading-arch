@@ -1,0 +1,6 @@
+{
+    "base": "EUR",
+    "target": "USD",
+    "sellRate": 1.00,
+    "buyRate": 1.00
+}

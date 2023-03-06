@@ -1,0 +1,13 @@
+{
+    "id" : "19fafecb-5c31-4785-9821-eea84ac32e73",
+    "currencyAccounts": [
+        {
+            "currency": "EUR",
+            "amount": 10000
+        },
+        {
+            "currency": "USD",
+            "amount": 10000
+        }
+    ]
+}

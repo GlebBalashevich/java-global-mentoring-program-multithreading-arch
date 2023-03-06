@@ -1,0 +1,13 @@
+{
+    "id" : "a11fd0bb-08eb-4257-9d31-a0ca18f08cec",
+    "currencyAccounts": [
+        {
+            "currency": "USD",
+            "amount": 1000
+        },
+        {
+            "currency": "BYN",
+            "amount": 25000
+        }
+    ]
+}
